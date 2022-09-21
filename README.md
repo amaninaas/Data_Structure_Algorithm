@@ -5,9 +5,9 @@ Javascript code that cover the topics of data structure and algorithm.
   ```
   ├── Algorithn                                    : Contain 01_linear.js/02_quadratic.js/sumofallnumbertilln.js/
 sumofallnumbertilln_recursive.js
-  ├── Data Structure                               : Contains all save image (graphs/heatmap/tensorboard 
-  ├── Activity                                     : Project Descriptions
-  └── README.md                                    : Main code file in python format
+  ├── Data Structure                               : Contains recursion.js and recursion.py
+  ├── Activity                                     : Javascript Exercise on Data Structure and Algorithm
+  └── README.md                                    : Folder Description
    ```
 
 # Credit
